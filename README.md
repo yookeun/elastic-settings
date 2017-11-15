@@ -4,4 +4,5 @@
 - kibana 5.6.3
 - logstash 5.6.3
 - x-pack 
-- filebeats 
+- filebeat 5.6.3
+
